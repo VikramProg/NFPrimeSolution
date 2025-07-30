@@ -1,0 +1,50 @@
+ [
+    {
+      "id": 1,
+      "title": "End-to-End Maintenance",
+      "description": "Reliable data center support from edge to core infrastructure.",
+      "detailed": "We offer complete maintenance solutions covering every aspect of your data center hardware and infrastructure, ensuring reduced downtime and extended hardware life.",
+      "fireNumber": 120,
+      "image": "../../assets/images/technician-providing-data-center-maintenance-services-on-motherboard.png"
+    },
+    {
+          "id": 2,
+      "title": "Smart IT Monitoring",
+      "description": "Gain real-time insights and alerts to improve uptime and reduce costs.",
+      "detailed": "Our advanced monitoring platform proactively tracks system performance, sends alerts, and provides actionable insights to minimize risk and operational expenses.",
+      "fireNumber": 98,
+      "image": "../../assets/images/msp-noc-services.png"
+    },
+    {
+          "id": 3,
+      "title": "Global Reach, Local Support",
+      "description": "Delivering high-quality infrastructure services around the globe.",
+      "detailed": "With teams positioned worldwide, we deliver responsive, localized support backed by a global network to ensure your critical systems stay running.",
+      "fireNumber": 76,
+      "image": "../../assets/images/msp-noc-services.png"
+    },
+    {
+          "id": 4,
+      "title": "Hardware on Demand",
+      "description": "Choose from a vast inventory of new and pre-owned IT equipment.",
+      "detailed": "Access our large catalog of certified hardware, both new and refurbished, helping you scale efficiently while managing budgets.",
+      "fireNumber": 142,
+      "image": "../../assets/images/msp-noc-services.png"
+    },
+    {
+          "id": 5,
+      "title": "Unified Dashboard",
+      "description": "Streamline infrastructure visibility with our single-pane platform.",
+      "detailed": "Our unified dashboard consolidates monitoring, alerts, and asset management into one intuitive interface for total operational clarity.",
+      "fireNumber": 88,
+         "image": "../../assets/images/msp-noc-services.png"
+    },
+    {
+          "id": 6,
+      "title": "Lifecycle Management",
+      "description": "Reduce operational risk with full visibility across your hardware assets.",
+      "detailed": "We provide complete asset lifecycle management, from procurement to decommissioning, ensuring compliance and cost efficiency.",
+      "fireNumber": 101,
+      "image": "../../assets/images/msp-noc-services.png"
+    }
+  ]
